@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c603768-7c31-4b17-a17b-576599e2c4d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2LTO77g4MKg09V6iGeZJB1Gpn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="centralized-health-system" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c603768-7c31-4b17-a17b-576599e2c4d9" name="Default Changelist" comment="" />
+      <created>1604893746691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604893746691</updated>
+      <workItem from="1604893748003" duration="3763000" />
+      <workItem from="1604899679580" duration="47000" />
+      <workItem from="1604900823896" duration="577000" />
+      <workItem from="1604901417378" duration="293000" />
+      <workItem from="1604901750130" duration="59000" />
+      <workItem from="1604901823318" duration="283000" />
+      <workItem from="1604902241209" duration="780000" />
+      <workItem from="1604904762141" duration="689000" />
+      <workItem from="1604987916648" duration="214000" />
+      <workItem from="1604988182170" duration="155000" />
+      <workItem from="1604988450697" duration="315000" />
+      <workItem from="1604988778573" duration="95000" />
+      <workItem from="1604988979183" duration="3410000" />
+      <workItem from="1604992682529" duration="496000" />
+      <workItem from="1604993350322" duration="902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1604992146713">
+      <screen x="0" y="23" width="1410" height="877" />
+    </state>
+    <state x="658" y="159" key="#com.intellij.ide.util.MemberChooser/0.23.1402.877@0.23.1402.877" timestamp="1604901753881" />
+    <state x="658" y="159" key="#com.intellij.ide.util.MemberChooser/0.23.1403.877@0.23.1403.877" timestamp="1604894548976" />
+    <state x="662" y="159" key="#com.intellij.ide.util.MemberChooser/0.23.1410.877@0.23.1410.877" timestamp="1604992146713" />
+    <state x="662" y="159" key="#com.intellij.ide.util.MemberChooser/0.23.1411.877@0.23.1411.877" timestamp="1604989424473" />
+    <state x="398" y="205" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604999638057">
+      <screen x="0" y="23" width="1411" height="877" />
+    </state>
+    <state x="398" y="205" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1411.877@0.23.1411.877" timestamp="1604999638057" />
+    <state x="158" y="90" key="SettingsEditor" timestamp="1604991694397">
+      <screen x="0" y="23" width="1410" height="877" />
+    </state>
+    <state x="158" y="90" key="SettingsEditor/0.23.1410.877@0.23.1410.877" timestamp="1604991694397" />
+    <state x="314" y="208" width="670" height="676" key="search.everywhere.popup" timestamp="1604991657771">
+      <screen x="0" y="23" width="1410" height="877" />
+    </state>
+    <state x="314" y="208" width="670" height="676" key="search.everywhere.popup/0.23.1410.877@0.23.1410.877" timestamp="1604991657771" />
+  </component>
+</project>
